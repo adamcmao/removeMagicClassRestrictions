@@ -1,0 +1,12 @@
+[
+    {
+      "type": "MOD_INFO",
+      "id": "magicRemoveRestrictions",
+      "name": "Magiclysm - No class restrictions",
+      "description": "Makes all classes inclusive",
+      "category": "magical",
+      "authors": [ "Runesturn" ],
+      "dependencies": [ "dda", "magiclysm" ]
+    }
+  ]
+  
